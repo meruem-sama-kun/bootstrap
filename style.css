@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url('./images/programming-1873854_960_720.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}.jumbo-text{
+    /* pour centrer verticalement*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
